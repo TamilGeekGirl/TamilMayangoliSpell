@@ -71,7 +71,7 @@ This work introduces:
 | mBART | (fill)    | (fill)               |
 | NLLB  | (fill)    | (fill)               |
 
-✔ mT5 performs best and generalizes well to cross-genre evaluation (short stories).
+**mT5** performs best and generalizes well to cross-genre evaluation (short stories).
 
 ---
 
