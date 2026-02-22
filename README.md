@@ -68,8 +68,8 @@ This work introduces:
 | Model | BLEU      | Exact Match Accuracy |
 | ----- | --------- | -------------------- |
 | mT5   | **99.28** | **93.50%**           |
-| mBART | (fill)    | (fill)               |
-| NLLB  | (fill)    | (fill)               |
+| mBART | 92.98     | 89.53                |
+| NLLB  | 94.73     | 0                    |
 
 **mT5** performs best and generalizes well to cross-genre evaluation (short stories).
 
