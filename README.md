@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This repository contains the implementation of **TamilMayangoliSpell**, a reproducible framework for correcting *Mayangoli errors* in Tamil.
+This repository contains the implementation of **TamilMayangoliSpell**, a reproducible framework for correcting *Mayangoli errors* in Tamil. This repository accompanies a research paper accepted for presentation at the ACL DravidianLangTech 2026 Workshop, to be held on July 3, 2026.
 
 Mayangoli errors are context-sensitive real-word errors arising from confusion among phonetically similar graphemes such as:
 
@@ -81,6 +81,7 @@ This work introduces:
 * `mt5_newspaper/` — mT5 experiments (newspaper)
 * `nllb_newspaper/` — NLLB experiments (newspaper)
 * `mt5_shortstories/` — cross-genre evaluation (short stories)
+* `Preprocessing scripts/` — all the modules needed for abbreviation normalisation, chunk based ingestion, valid mayangoli error induction 
 * `screenshots_cli_gui/` — execution evidence
 
 ---
@@ -102,6 +103,6 @@ Each folder contains:
 
 ---
 
-##  Anonymous Submission
+##  Created and maintained by Dr.Yazhmozhi (PhD)
 
-This repository is anonymized for peer review.
+This repository accompanies a research paper accepted for presentation at the ACL DravidianLangTech 2026 Workshop, to be held on July 3, 2026.
