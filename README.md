@@ -35,6 +35,11 @@ This work introduces:
    * NLLB
 
 ---
+##  Overall pipeline
+<img width="667" height="735" alt="image" src="https://github.com/user-attachments/assets/12ee6d15-1d9c-4a1f-864b-1b79b196134a" />
+
+
+---
 
 ## Dataset
 
